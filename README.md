@@ -1,8 +1,10 @@
 # Netflix DCF Valuation Model
 
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix Logo" width="350">
 </p>
+
 
 ## Overview
 This project presents a Discounted Cash Flow (DCF) valuation of Netflix, Inc. The objective of the model is to estimate the intrinsic value of the company by forecasting future cash flows and discounting them to their present value.
