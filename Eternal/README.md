@@ -42,18 +42,6 @@ The model enables users to compare Base, Bull, and Bear case scenarios by adjust
 - Microsoft Excel
 
 ---
-
-## Folder Contents
-
-```
-Eternal
-│── Eternal_Revenue_Scenario_Builder.xlsx
-│── Project_Report.pdf
-│── README.md
-│── screenshots
-│     ├── dashboard.png
-│     ├── assumptions.png
-│     └── scenarios.png
 ```
 
 ---
