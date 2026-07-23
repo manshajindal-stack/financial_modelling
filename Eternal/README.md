@@ -1,4 +1,4 @@
-# 📈 Eternal (Zomato) Financial Model
+# 📈 Eternal (Zomato) Buy Side DCF Financial Model
 
 ## Overview
 
