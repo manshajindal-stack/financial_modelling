@@ -25,6 +25,17 @@ Welcome to my Financial Modeling Portfolio. This repository showcases financial 
 
 ---
 
+---
+
+### 📈 Eternal (Zomato) Revenue Scenario Builder
+
+- Driver-Based Revenue Forecasting
+- Base, Bull & Bear Scenario Analysis
+- Revenue Sensitivity Analysis
+- Dynamic Assumption Control Panel
+- Interactive Dashboard & KPI Tracking
+
+📁 Folder: `Eternal`
 ## Skills Demonstrated
 
 - Financial Modeling
