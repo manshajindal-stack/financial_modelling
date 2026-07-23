@@ -42,9 +42,6 @@ The model enables users to compare Base, Bull, and Bear case scenarios by adjust
 - Microsoft Excel
 
 ---
-```
-
----
 
 ## Business Objective
 
