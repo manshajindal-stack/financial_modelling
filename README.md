@@ -25,8 +25,6 @@ Welcome to my Financial Modeling Portfolio. This repository showcases financial 
 
 ---
 
----
-
 ### 📈 Eternal (Zomato) Revenue Scenario Builder
 
 - Driver-Based Revenue Forecasting
@@ -41,11 +39,12 @@ Welcome to my Financial Modeling Portfolio. This repository showcases financial 
 - Financial Modeling
 - Financial Statement Analysis
 - DCF Valuation
-- Comparable Company Analysis
 - Business Forecasting
 - Corporate Finance
 - Equity Research
 - Microsoft Excel
+
+---
 
 ## About
 
