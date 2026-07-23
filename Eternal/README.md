@@ -1,4 +1,4 @@
-# 📈 Eternal (Zomato) Revenue Scenario Builder
+# 📈 Eternal (Zomato) Financial Model
 
 ## Overview
 
